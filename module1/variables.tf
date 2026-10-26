@@ -16,3 +16,8 @@ variable "db_username" {
   description = "RDS root username."
   type        = string
 }
+variable "db_username1" {
+  description = "RDS root username1."
+  type        = string
+}
+
